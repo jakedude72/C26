@@ -25,7 +25,7 @@ function setup(){
     pig1 = new Pig(1010, 550);
     log1 = new Log(1010,560,300, PI/2);
 
-    pig2 = new Pig(750, 550)
+    pig2 = new Pig(750, 400)
 
     box3 = new Box(900,540,70,70);
     box4 = new Box(1120,540,70,70);
